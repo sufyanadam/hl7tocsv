@@ -10,7 +10,7 @@ describe HL7toCSV do
     let(:hl7) { File.read('spec/fixtures/sample.hl7') }
 
     it "works" do
-      expect(subject).to eq "ID,GLUCOSE GLC BASELINE\n845439^GHH OE,^182\n"
+      expect(subject).to eq "ID,GLUCOSE GLUCOSE\n845439^GHH OE,^182\n"
     end
   end
 end
