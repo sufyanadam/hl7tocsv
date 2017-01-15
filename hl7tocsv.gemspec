@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Convert HL7 ORU messages to CSV}
   spec.description   = %q{Convert HL7 ORU messages to CSV with ease}
-  spec.homepage      = "https://github.com/sufyanadam/hl7tocsv.git"
+  spec.homepage      = "https://github.com/sufyanadam/hl7tocsv"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
