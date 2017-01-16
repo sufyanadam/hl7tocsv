@@ -1,8 +1,7 @@
 # Hl7tocsv
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hl7tocsv`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Convert HL7 ORU messages to csv. If you just want a list of the results of each observation
+to analyze in a spreadsheet, `HL7toCSV` makes it easy!
 
 ## Installation
 
